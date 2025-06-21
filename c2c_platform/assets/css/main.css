@@ -1,0 +1,43 @@
+.product-card {
+    transition: transform 0.2s;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.navbar .badge {
+    font-size: 0.6rem;
+    padding: 0.25em 0.4em;
+    margin-left: -0.8em;
+    margin-top: -0.5em;
+}
+
+.cart-link {
+    position: relative;
+    display: inline-block;
+}
+
+.cart-count {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    background: #dc3545;
+    color: white;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    font-size: 0.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.alert {
+    transition: all 0.3s ease;
+}
+
+.alert-dismissible .btn-close {
+    padding: 0.5rem 0.5rem;
+}

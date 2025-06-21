@@ -1,0 +1,386 @@
+[20-Jun-2025 16:23:25 Europe/Berlin] PHP Warning:  Undefined variable $index in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php on line 154
+[20-Jun-2025 16:23:25 Europe/Berlin] PHP Warning:  Undefined variable $index in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php on line 155
+[20-Jun-2025 16:26:59 Europe/Berlin] PHP Warning:  Undefined variable $index in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php on line 153
+[20-Jun-2025 16:27:30 Europe/Berlin] === PROCESSING COMPLETE ===
+[20-Jun-2025 16:27:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getProductVariations() on array in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 63
+[20-Jun-2025 16:27:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getProductVariations() on array in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php:63
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 63
+[21-Jun-2025 13:38:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:38:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:38:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:38:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:46:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:46:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:46:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:46:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:47:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:47:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:47:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:47:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:49:34 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:49:34 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:49:34 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:49:34 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:50:07 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:50:07 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 13:50:07 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 13:50:07 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:05 Europe/Berlin] Created variation ID 47 for index 0
+[21-Jun-2025 14:02:05 Europe/Berlin] Processing files for variation index 0
+[21-Jun-2025 14:02:05 Europe/Berlin] Added file: Basilisk_Chroma_1.png
+[21-Jun-2025 14:02:05 Europe/Berlin] Uploading 1 files for variation 47
+[21-Jun-2025 14:02:05 Europe/Berlin] Created variation ID 48 for index 1
+[21-Jun-2025 14:02:05 Europe/Berlin] Processing files for variation index 1
+[21-Jun-2025 14:02:05 Europe/Berlin] Added file: Razer_Basilisk_White_1.png
+[21-Jun-2025 14:02:05 Europe/Berlin] Uploading 1 files for variation 48
+[21-Jun-2025 14:02:05 Europe/Berlin] === PROCESSING COMPLETE ===
+[21-Jun-2025 14:02:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:48 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:48 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:48 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:48 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:48 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:48 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:02:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 96
+[21-Jun-2025 14:02:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "Product" not found in C:\xampp\htdocs\c2c_platform\includes\seller\delete_product.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\c2c_platform\includes\seller\delete_product.php on line 19
+[21-Jun-2025 14:03:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:21 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:24 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:24 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 14:03:24 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 14:03:24 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:06:13 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:06:13 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:06:13 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:06:13 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:06:40 Europe/Berlin] Created variation ID 49 for index 0
+[21-Jun-2025 15:06:40 Europe/Berlin] Processing files for variation index 0
+[21-Jun-2025 15:06:40 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php:69
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php on line 69
+[21-Jun-2025 15:08:06 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:08:06 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:08:06 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:08:06 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:09:29 Europe/Berlin] Created variation ID 50 for index 0
+[21-Jun-2025 15:09:29 Europe/Berlin] Processing files for variation index 0
+[21-Jun-2025 15:09:29 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, string given in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php:69
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\c2c_platform\includes\seller\add_product.php on line 69
+[21-Jun-2025 15:15:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:15:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:15:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:15:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:16:27 Europe/Berlin] Created variation ID 51 for index 0
+[21-Jun-2025 15:16:27 Europe/Berlin] Processing files for variation index 0
+[21-Jun-2025 15:16:27 Europe/Berlin] Created variation ID 52 for index 1
+[21-Jun-2025 15:16:27 Europe/Berlin] Processing files for variation index 1
+[21-Jun-2025 15:16:27 Europe/Berlin] === PROCESSING COMPLETE ===
+[21-Jun-2025 15:16:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:16:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:16:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:16:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:16:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:16:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:08 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:08 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:08 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:08 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:08 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:08 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:10 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:10 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:10 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:10 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:45 Europe/Berlin] Created variation ID 53 for index 0
+[21-Jun-2025 15:19:45 Europe/Berlin] Processing files for variation index 0
+[21-Jun-2025 15:19:45 Europe/Berlin] Created variation ID 54 for index 1
+[21-Jun-2025 15:19:45 Europe/Berlin] Processing files for variation index 1
+[21-Jun-2025 15:19:45 Europe/Berlin] === PROCESSING COMPLETE ===
+[21-Jun-2025 15:19:45 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:45 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:45 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:45 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:45 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:19:45 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:19:47 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:19:47 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:19:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Product::updateProduct() in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php:50
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 50
+[21-Jun-2025 15:21:07 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:21:07 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:22:08 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:22:08 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:29:29 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:29:29 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:29:38 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:29:38 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:30:36 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:30:36 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:30:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:30:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:30:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:30:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:30:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:30:56 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:30:59 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:30:59 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:31:03 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:31:03 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:31:03 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:31:03 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:31:03 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:31:03 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:36:06 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:36:06 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:36:11 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:36:11 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:36:11 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:36:11 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:36:11 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:36:11 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:36:12 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:36:12 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:37:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:37:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:37:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:37:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:37:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:37:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:37:41 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:37:41 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:37:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:37:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:37:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:37:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:37:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:37:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:02 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:44:02 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:02 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:44:02 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:02 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:44:02 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:03 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:03 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:03 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:03 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:44:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:44:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:44:17 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:44:18 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:18 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:18 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:44:18 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 211
+[21-Jun-2025 15:46:35 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:46:35 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:46:35 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:46:35 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:46:35 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:46:35 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:46:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:46:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:46:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:46:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:47:04 Europe/Berlin] Created variation ID 55 for index 0
+[21-Jun-2025 15:47:04 Europe/Berlin] Created variation ID 56 for index 1
+[21-Jun-2025 15:47:04 Europe/Berlin] === PROCESSING COMPLETE ===
+[21-Jun-2025 15:47:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:47:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:47:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:47:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:47:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:47:05 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:47:18 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:47:18 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:47:18 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:47:18 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:47:18 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:47:18 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:48:00 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 210
+[21-Jun-2025 15:48:00 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 210
+[21-Jun-2025 15:48:00 Europe/Berlin] PHP Warning:  Undefined array key "product_image_id" in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 210
+[21-Jun-2025 15:48:00 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\c2c_platform\includes\seller\manage_product.php on line 210
+[21-Jun-2025 15:52:37 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:37 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:37 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:37 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:37 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:37 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:42 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:42 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:42 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:42 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:42 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:42 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:49 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:52 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:52 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:52 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:52 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:52:52 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:52:52 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:54:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:54:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:54:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:54:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:54:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:54:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:54:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:54:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:54:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:54:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:54:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:54:39 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:55:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:55:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:55:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:55:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:55:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:55:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:55:32 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:55:32 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:55:32 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:55:32 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:55:32 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:55:32 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:20 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:20 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:20 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:20 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:20 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:20 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:23 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:27 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:58:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:58:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:59:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:59:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:59:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:59:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:59:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:59:25 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:59:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:59:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:59:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:59:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 15:59:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 15:59:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:36 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:50 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:50 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:50 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:50 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:50 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:50 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:51 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:51 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:51 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:51 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:06:51 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:06:51 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:38 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:07:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:07:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:14:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:14:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:14:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:14:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:14:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:14:30 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:15:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:15:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:15:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:15:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:15:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:15:22 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:15:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:15:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:15:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:15:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95
+[21-Jun-2025 16:15:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 94
+[21-Jun-2025 16:15:41 Europe/Berlin] PHP Warning:  Undefined array key "active" in C:\xampp\htdocs\c2c_platform\includes\seller\product_listings.php on line 95

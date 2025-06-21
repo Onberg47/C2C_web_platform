@@ -1,0 +1,47 @@
+/c2c_platform
+    /api
+        cart_add.php
+
+    /assets
+        /css
+            main.css
+        /images
+            /products
+            <various images>
+        /js
+
+    /cart
+        cart.php
+        checkout.php
+        process_payment.php
+    
+    /includes
+        /auth
+            become_seller.php
+            login.php
+            logout.php
+            register.php
+        /seller
+            add_product.php
+            delete_product.php
+            manage_product.php
+            product_listings.php
+        /user
+            order_list.php
+            profile.php
+        footer.php
+        header.php
+        product_card.php
+    
+    /product
+        view.php
+    
+    /src
+        Cart.php
+        Order.php
+        Product.php
+        Shipping.php
+        User.php
+    
+    config.php
+    index.php

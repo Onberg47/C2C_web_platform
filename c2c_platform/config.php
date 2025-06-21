@@ -1,0 +1,109 @@
+<?php
+// Ensure sessions are properly started
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
+
+// Initialize payment_message array if not set
+if (!isset($_SESSION['payment_message']) || !is_array($_SESSION['payment_message'])) {
+    $_SESSION['payment_message'] = [];
+}
+
+// Environment detection
+$isProduction = (strpos($_SERVER['HTTP_HOST'], 'localhost') === false);
+
+// Base URL configuration
+$protocol = $isProduction ? 'https://' : 'http://';
+define('BASE_URL', $protocol . $_SERVER['HTTP_HOST'] . '/c2c_platform/');
+define('UPLOAD_BASE_DIR', $_SERVER['DOCUMENT_ROOT'] . '/c2c_platform/assets/images/products/');
+
+// Database configuration
+define('DB_HOST', 'localhost');
+define('DB_USER', 'root');
+define('DB_PASS', '');
+define('DB_NAME', 'platform_db');
+
+// Error reporting
+ini_set('display_errors', !$isProduction);
+error_reporting($isProduction ? E_ALL & ~E_DEPRECATED & ~E_STRICT : E_ALL);
+
+// logging
+define('LOG_FILE', __DIR__ . '/upload_errors.log');
+ini_set('error_log', LOG_FILE);
+ini_set('log_errors', 1);
+
+// Database connection class
+class Database
+{
+    private $conn;
+
+    public function __construct()
+    {
+        try {
+            $this->conn = new PDO(
+                "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME,
+                DB_USER,
+                DB_PASS,
+                [
+                    PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
+                    PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC,
+                    PDO::ATTR_EMULATE_PREPARES => false
+                ]
+            );
+        } catch (PDOException $e) {
+            error_log("Database connection failed: " . $e->getMessage());
+            die("Database connection error. Please try again later.");
+        }
+    }
+
+    public function getConnection()
+    {
+        return $this->conn;
+    }
+}
+
+// Initialize database
+$database = new Database();
+$db = $database->getConnection();
+
+/// /// /// Security functions /// /// ///
+function sanitizeInput($data)
+{
+    return htmlspecialchars(trim($data), ENT_QUOTES, 'UTF-8');
+}
+
+function isLoggedIn()
+{
+    return isset($_SESSION['user_id']);
+}
+
+function requireLogin()
+{
+    if (!isLoggedIn()) {
+        header("Location: " . BASE_URL . "auth/login.php");
+        exit();
+    }
+}
+
+// Helper function to check if user is seller
+function isSeller($db)
+{
+    if (!isLoggedIn())
+        return false;
+
+    if (!isset($_SESSION['is_seller'])) {
+        $user = new User($db);
+        $_SESSION['is_seller'] = $user->isSeller($_SESSION['user_id']);
+    }
+
+    return $_SESSION['is_seller'];
+}
+
+// CSRF protection
+if (!isset($_SESSION['csrf_token'])) {
+    $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+}
+
+/// /// /// Final imports /// /// ///
+require_once __DIR__ . '/src/User.php';
+?>
