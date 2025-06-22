@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /c2c_platform/
+
+# Prevent direct directory access
+RewriteCond %{REQUEST_URI} /c2c_platform/$
+RewriteRule ^ - [L]
+
+# Standard front controller pattern
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [L]

@@ -17,11 +17,17 @@ $protocol = $isProduction ? 'https://' : 'http://';
 define('BASE_URL', $protocol . $_SERVER['HTTP_HOST'] . '/c2c_platform/');
 define('UPLOAD_BASE_DIR', $_SERVER['DOCUMENT_ROOT'] . '/c2c_platform/assets/images/products/');
 
-// Database configuration
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'platform_db');
+// Database configuration LOCAL
+//define('DB_HOST', 'localhost');
+//define('DB_USER', 'root');
+//define('DB_PASS', '');
+//define('DB_NAME', 'platform_db');
+
+// Database configuration ONLINE
+define('DB_HOST', 'sql304.infinityfree.com');
+define('DB_USER', 'if0_39295150');
+define('DB_PASS', 'dIqYHUTIUcJv9I');
+define('DB_NAME', 'if0_39295150_platform_db');
 
 /** online hosting details
  * account:         onberg.infinityfreeapp.com
