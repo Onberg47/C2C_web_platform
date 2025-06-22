@@ -30,10 +30,11 @@ define('DB_PASS', 'dIqYHUTIUcJv9I');
 define('DB_NAME', 'if0_39295150_platform_db');
 
 /** online hosting details
- * account:         onberg.infinityfreeapp.com
+ * home:            https://onberg.infinityfreeapp.com/c2c_platform/
  * MYSQL username:  if0_39295150
  * pswrd:           dIqYHUTIUcJv9I
  * MYSQL Host name: sql304.infinityfree.com
+ * DB name:         if0_39295150_platform_db
  * 
  * Local hosting details:
  * localhost
