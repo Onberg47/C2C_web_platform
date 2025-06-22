@@ -122,7 +122,7 @@ require_once __DIR__ . '/../includes/header.php';
                                 <i class="bi bi-person-circle"></i>
                                 Sold by: <?= htmlspecialchars($productDetails['seller_name']) ?>
                             </span>
-                            <a href="<?= BASE_URL ?>messages/?to=<?= $productDetails['seller_id'] ?>"
+                            <a href="<?= BASE_URL ?>includes/messaging/initiate_chat.php?product_id=<?= $productDetails['id'] ?>"
                                 class="btn btn-sm btn-outline-primary">
                                 <i class="bi bi-envelope"></i> Contact Seller
                             </a>

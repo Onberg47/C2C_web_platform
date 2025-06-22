@@ -1,4 +1,5 @@
 <?php
+
 class Shipping
 {
     private $db;

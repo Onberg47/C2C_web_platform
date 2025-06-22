@@ -1,4 +1,5 @@
 <?php
+
 class Product
 {
     private $db;
@@ -154,6 +155,7 @@ class Product
         return $stmt->fetchAll(PDO::FETCH_ASSOC);
     } // getFilteredProducts()
 
+
     /// Details ///
 
     public function getProductDetails($productId, $variationId = null)
@@ -281,6 +283,15 @@ class Product
         return $result ? $result['Seller_ID'] : null;
     }
 
+    // For product view and messaging
+    public function getSellerUserId($sellerId)
+    {
+        $stmt = $this->db->prepare("
+        SELECT User_ID FROM Seller WHERE Seller_ID = ?
+    ");
+        $stmt->execute([$sellerId]);
+        return $stmt->fetchColumn();
+    }
     public function getProductsBySeller($sellerId)
     {
         $stmt = $this->db->prepare("
@@ -310,6 +321,7 @@ class Product
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
         return $result ? $result['File_Name'] : null;
     } // getMainProductImage()
+
 
     /// /// Create Products /// ///
 
@@ -413,6 +425,7 @@ class Product
         $result = $stmt->fetch(PDO::FETCH_ASSOC);
         return $result ? $result['Name'] : 'Product Image';
     } // getProductNameByVariation()
+
 
     /// /// Delete Product /// ///
     public function deleteProduct($productId)

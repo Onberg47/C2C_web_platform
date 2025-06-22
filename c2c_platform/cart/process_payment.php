@@ -97,7 +97,7 @@ try {
         'text' => 'Order successfully placed!',
         'timestamp' => time()
     ];
-    header("Location: " . BASE_URL . "includes/user/order_list.php?order_id=" . $orderId);
+    header("Location: " . BASE_URL . "includes/oders/order_list.php?order_id=" . $orderId);
     exit;
     
 } catch (Exception $e) {

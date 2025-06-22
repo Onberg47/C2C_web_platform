@@ -1,6 +1,5 @@
 <?php
 require_once __DIR__ . '/../../config.php';
-require_once __DIR__ . '/../../src/User.php';
 
 // Redirect if not logged in
 if (!isLoggedIn()) {

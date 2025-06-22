@@ -23,6 +23,19 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'platform_db');
 
+/** online hosting details
+ * account:         onberg.infinityfreeapp.com
+ * MYSQL username:  if0_39295150
+ * pswrd:           dIqYHUTIUcJv9I
+ * MYSQL Host name: sql304.infinityfree.com
+ * 
+ * Local hosting details:
+ * localhost
+ * root
+ * 
+ * platform_db
+ */
+
 // Error reporting
 ini_set('display_errors', !$isProduction);
 error_reporting($isProduction ? E_ALL & ~E_DEPRECATED & ~E_STRICT : E_ALL);
@@ -85,7 +98,7 @@ function requireLogin()
     }
 }
 
-// Helper function to check if user is seller
+/// /// /// Helper function to check if user is seller /// /// ///
 function isSeller($db)
 {
     if (!isLoggedIn())
@@ -103,6 +116,61 @@ function isSeller($db)
 if (!isset($_SESSION['csrf_token'])) {
     $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
 }
+
+/// /// Messaging system helpers /// ///
+
+// Helper functions - these should be moved to a utilities file eventually
+function truncateMessage($text, $length)
+{
+    if (strlen($text) > $length) {
+        return htmlspecialchars(substr($text, 0, $length)) . '...';
+    }
+    return htmlspecialchars($text);
+} // truncateMessage()
+
+function formatMessageTime($timestamp)
+{
+    $date = new DateTime($timestamp);
+    $now = new DateTime();
+    $diff = $now->diff($date);
+
+    if ($diff->days === 0) {
+        return $date->format('H:i');
+    } elseif ($diff->days === 1) {
+        return 'Yesterday';
+    } elseif ($diff->days < 7) {
+        return $date->format('D');
+    } else {
+        return $date->format('M j');
+    }
+} // formatMessageTime()
+
+// Returns a truncated message cleanly
+function displayMessageContent($text, $length = null)
+{
+    if ($text === null)
+        return 'No messages yet';
+    $safeText = htmlspecialchars($text, ENT_QUOTES, 'UTF-8');
+    return $length ? htmlspecialchars_decode(truncateMessage($safeText, $length)) : htmlspecialchars_decode($safeText);
+} // displayMessageContent()
+
+/// ///
+
+function getStatusColor($status)
+{
+    //error_log("Getting color for status: " . $status); // Debug
+
+    $status = strtolower(trim($status ?? ''));
+    $colors = [
+        'completed' => 'success',
+        'processing' => 'primary',
+        'shipped' => 'info',
+        'cancelled' => 'danger',
+        'pending' => 'warning'
+    ];
+
+    return $colors[$status] ?? 'secondary';
+} // getStatusColor()
 
 /// /// /// Final imports /// /// ///
 require_once __DIR__ . '/src/User.php';

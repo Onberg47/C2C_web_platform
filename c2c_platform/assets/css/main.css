@@ -14,6 +14,7 @@
     margin-top: -0.5em;
 }
 
+/* Cart and checkout */
 .cart-link {
     position: relative;
     display: inline-block;
@@ -34,10 +35,37 @@
     justify-content: center;
 }
 
+
+/* Product modification */
 .alert {
     transition: all 0.3s ease;
 }
 
 .alert-dismissible .btn-close {
     padding: 0.5rem 0.5rem;
+}
+
+
+/* Message bubbles */
+.card[style*="max-width: 75%"] {
+    border-radius: 1rem;
+}
+
+.align-self-end .card {
+    border-bottom-right-radius: 0.25rem !important;
+}
+
+.align-self-start .card {
+    border-bottom-left-radius: 0.25rem !important;
+}
+
+/* Message input */
+#messageForm textarea {
+    resize: none;
+    min-height: 38px;
+    max-height: 120px;
+}
+
+.table-responsive {
+    overflow: visible !important; /* Allows dropdown to overflow */
 }

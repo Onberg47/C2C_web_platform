@@ -83,10 +83,10 @@ require_once __DIR__ . '/../config.php';
                                 <li><a class="dropdown-item" href="<?= BASE_URL ?>includes/user/profile.php">
                                         <i class="bi bi-person me-2"></i>Profile
                                     </a></li>
-                                <li><a class="dropdown-item" href="<?= BASE_URL ?>includes/user/message_room.php">
-                                        <i class="bi bi-envelope"></i>Message Room
+                                <li><a class="dropdown-item" href="<?= BASE_URL ?>includes/messaging/my_messages.php">
+                                        <i class="bi bi-envelope"></i>My Messages
                                     </a></li>
-                                <li><a class="dropdown-item" href="<?= BASE_URL ?>includes/user/order_list.php">
+                                <li><a class="dropdown-item" href="<?= BASE_URL ?>includes/orders/order_list.php">
                                         <i class="bi bi-receipt"></i>Orders
                                     </a></li>
                                 <?php if (!isSeller($db)): ?>
